@@ -1,0 +1,17 @@
+# Trabalho 2 — Adaptação de Pós-processamento Anamórfico com Three.js
+
+Este projeto é uma adaptação para fins de aprendizagem do exemplo de pós-processamento anamórfico utilizando WebGPU, disponível no repositório oficial do Three.js.
+
+## Referências
+
+- Exemplo original no GitHub:  
+  [three.js/examples/webgpu_postprocessing_anamorphic.html](https://github.com/mrdoob/three.js/blob/master/examples/webgpu_postprocessing_anamorphic.html)
+
+- Documentação e exemplos do Three.js:  
+  [threejs.org/examples/?q=webgpu%20postprocessing#webgpu_postprocessing_anamorphic](https://threejs.org/examples/?q=webgpu%20postprocessing#webgpu_postprocessing_anamorphic)
+
+## Objetivo
+
+O objetivo deste trabalho é proporcionar aprendizado prático sobre pós-processamento gráfico com Three.js e WebGPU, explorando técnicas de efeitos visuais avançados.
+
+---
